@@ -13,3 +13,9 @@ The program loops through numbers from `1` to `n`, checks which numbers divide `
 2. Run the script:
 ```bash
 python odd_divisors.py
+
+## Example  
+See output by entering a number like `15`. It'll show all odd divisors.
+
+## License  
+Free to use or modify. Credit is cool but not required.
